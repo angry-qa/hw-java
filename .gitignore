@@ -36,3 +36,4 @@ testing/logs/Screenshots
 gradle.properties
 build
 /.allure/
+/out/
