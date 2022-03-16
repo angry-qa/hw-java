@@ -10,7 +10,7 @@ public class Main {
   public static void main(String[] args) {
 
     System.out.println("");
-    System.out.println((char) 27 + "[35mWelcome to 'Heroes Of Might and magic: REMAKE'" + (char)27 + "[0m");
+    System.out.println((char) 27 + "[35mWelcome to 'Heroes Of Might and Magic: UNREMAKE'" + (char)27 + "[0m");
     System.out.println("");
 
     lizard.setCurrentEnemy(dragonfly);
